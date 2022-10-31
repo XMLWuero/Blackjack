@@ -16,4 +16,4 @@ public:
     enum number{Ace, Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten, Jack, Queen, King};
 };
 
- string toString(string tring1, string string2);
+ string toString(string string1, string string2);
