@@ -1,0 +1,3 @@
+C:/Users/Max/CLionProjects/Blackjack_Karten_Create/cmake-build-debug/CMakeFiles/Blackjack_Karten_Create.dir
+C:/Users/Max/CLionProjects/Blackjack_Karten_Create/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Max/CLionProjects/Blackjack_Karten_Create/cmake-build-debug/CMakeFiles/rebuild_cache.dir
